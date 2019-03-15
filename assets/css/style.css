@@ -1,5 +1,6 @@
 body{
-    background-color:grey;
+    background-color:whitesmoke;
+    background-image: "assets/images/bestoldiessingers.jpg" 
 }
 .start{
     padding:0;        
@@ -18,23 +19,22 @@ h1{
    margin:auto;
 }
 .startBtn{
-    width: 500px;
+    width: 250px;
 }
 .trivSection{
     margin-top: 100px;
     text-align: center;
 }
 .question, .answers, .rightAnswer, .wrongAnswer, .gameOver, .score{
-    font-family: Press Start 2P, cursive;
+    font-family: ‘Press Start 2P’, cursive;
     padding: 30px;
     font-size: 15px;
     margin: 10px;
 }
 
-/*buttons*/
 .redBtn {
- color: transparent;
- background-color: brown;
- border-color: tan;
+ color: red;
+ background-color:rosybrown;
+ border-color: #000000;
 
 }
